@@ -1,0 +1,4 @@
+// ## First Comment            --> right
+# // # Second Comment          --> right
+/* /* /* Third Comment */      --> right
+////// Fourth Comment          --> right
